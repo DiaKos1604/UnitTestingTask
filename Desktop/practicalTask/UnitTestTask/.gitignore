@@ -1,0 +1,35 @@
+﻿# Pliki binarne i katalogi kompilacji
+[Bb]in/
+[Oo]bj/
+
+# Pliki generowane przez Visual Studio
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Pliki logów
+*.log
+
+# Pliki tymczasowe
+*.tmp
+*.temp
+
+# Pliki środowiskowe
+.env
+
+# Pliki zależności
+packages/
+*.nupkg
+*.snupkg
+
+# Pliki generowane przez system operacyjny
+.DS_Store
+Thumbs.db
+# Ignorowanie plików Docker
+*.dotnetUserLevel
+*.dotnetUseContainer
+
+
+
